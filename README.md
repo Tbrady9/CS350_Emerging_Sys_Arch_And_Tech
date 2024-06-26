@@ -1,6 +1,7 @@
 # CS350_Emerging_Sys_Arch_And_Tech
 
 **Summarize the project and what problem it was solving**
+--------------------------------------------------------------------------
 
 The first project that I chose was the morse code assignment from module 5. The goal of this assignment was to create a program that continuously looped an SOS morse code message blinking on the red and green LEDs. When a button is pushed, the SOS message should change to an 'OK' morse code message that is continuously looped.
 
