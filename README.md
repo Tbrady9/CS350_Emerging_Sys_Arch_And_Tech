@@ -30,5 +30,5 @@ I look forward to working more with embedded systems. As stated previously, they
 **How did you make this project maintainable, readable, and adaptable?**
 --
 
-As stated previously, my morse code project feels very structured and organized. It is well commented and is very easily followed. People of varying experience levels will most likely be able to pick this project up and easily understand what it is doing to expand on it if necessary. My thermostat project could use some cleanup to get it to the same level. 
+As stated previously, my morse code project feels very structured and organized. It is well commented and simplified which makes it very easy to follow. People of varying experience levels will most likely be able to pick this project up and easily understand what it is doing to expand on it if necessary. My thermostat project could use some cleanup to get it to the same level. 
 
